@@ -8,7 +8,7 @@
 /* Hero section */
 .hero-section {
    height: 100vh;
-   background: url("hero-bg.jpg") center no-repeat;
+   background: url("../images/windows.jpg") center no-repeat;
    background-size: cover;
 }
 /* Nav */
@@ -63,7 +63,15 @@ nav a:hover::after {
     width: 100%;
 }
 
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
 section {
-    height: 100vh; width: 100vw;
-    background-image: url()
+    background-image: url("../images/windows.jpg");
 }
+
