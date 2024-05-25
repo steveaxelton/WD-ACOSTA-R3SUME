@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/161497475_1214119535670812_5443610663831602452_n.jpg" alt="Nyebe" width="130" height="100">
+    <img src="./assets/images/161497475_1214119535670812_5443610663831602452_n.jpg" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Istibo</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Novice Programmer
 </div>
 
 <br />
